@@ -1,4 +1,3 @@
-# Spotify-Clone
 # 🎶 Spotify Web Player UI Clone
 
 This is a **front-end web development project** replicating the user interface and layout of the Spotify web player using foundational web technologies.
